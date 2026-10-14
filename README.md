@@ -7,4 +7,4 @@ Types in a beta version are not included in releases and may change in a backwar
 
 ## build process
 
-The build process is documented [here](https://github.com/belgif/openapi-common/blob/master/BUILDING.md).
+The build process is documented [here](https://github.com/belgif/openapi-common/blob/main/BUILDING.md).
